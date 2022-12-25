@@ -188,6 +188,7 @@ html {
     position: absolute;
     bottom: 47px;
     width: 100%;
+    text-shadow: 1px 1px 1px #000;
 }
 
 #slider .text-content .text-heading {
